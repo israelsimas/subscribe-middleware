@@ -1,6 +1,6 @@
 /**************************************************************************
  *
- * subscribe.c
+ * subscribe-middlware.c
  *
  *    Application publish 
  * 
@@ -9,7 +9,7 @@
  **************************************************************************/
 
 #include <middleware.h>
-#include <subscribe.h>
+#include <subscribe-middlware.h>
 #include <utils.h>
 #include <pthread.h>
 #include <stdio.h>
